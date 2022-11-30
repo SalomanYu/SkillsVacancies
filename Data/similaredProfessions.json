@@ -1,0 +1,5339 @@
+[
+  {
+    "vacancy_id": "66103428",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "55352674",
+    "vacancy_title": "Junior Product/Project Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "67382300",
+    "vacancy_title": "Python-разработчик (junior)",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52888150",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "53267123",
+    "vacancy_title": "Junior Product Manager (Digital)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "66629438",
+    "vacancy_title": "Python Developer (Backend)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "49480631",
+    "vacancy_title": "Junior Product/Project Manager",
+    "edwica_profession": "Project Manager - junior",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67541105",
+    "vacancy_title": "Junior Python разработчик",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53680941",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "55159738",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "50628580",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66958579",
+    "vacancy_title": "Junior Программист/Разработчик Python",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67173564",
+    "vacancy_title": "Python Backend Developer Junior / Middle",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66105604",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "50666043",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66815131",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50530852",
+    "vacancy_title": "Junior Product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66958579",
+    "vacancy_title": "Junior Программист/Разработчик Python",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66930680",
+    "vacancy_title": "Backend-разработчик (Python)",
+    "edwica_profession": "Backend разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67348650",
+    "vacancy_title": "Python разработчик junior",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66701384",
+    "vacancy_title": "Junior python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50320797",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "53945567",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "66981015",
+    "vacancy_title": "Junior Python Developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51697031",
+    "vacancy_title": "Junior Python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "52277467",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "51697031",
+    "vacancy_title": "Junior Python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66935775",
+    "vacancy_title": "Программист C++ / Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "55873247",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "53272104",
+    "vacancy_title": "Менеджер продукта (junior)",
+    "edwica_profession": "Менеджер продукта",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "67608364",
+    "vacancy_title": "Junior Python разработчик (Django)",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67603276",
+    "vacancy_title": "Программист Python Junior (Стажер)",
+    "edwica_profession": "Junior python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "47668037",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "55873253",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "67347973",
+    "vacancy_title": "Junior Python разработчик",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51034770",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "51918157",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "54881284",
+    "vacancy_title": "Разработчик python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50858773",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "66751836",
+    "vacancy_title": "Junior Python developer (remote)",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53158702",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "50596002",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66837197",
+    "vacancy_title": "Стажер-программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "55873249",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "54374433",
+    "vacancy_title": "Junior/Middle Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66828476",
+    "vacancy_title": "Python RPA Developer",
+    "edwica_profession": "Python RPA Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50602164",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55873241",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "50858773",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "55873252",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "66769222",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "53082958",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "55873242",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "67173870",
+    "vacancy_title": "Junior python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66754647",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "48355472",
+    "vacancy_title": "Junior Product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "52556870",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "55873243",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "50928002",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55873239",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "55873240",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "67028252",
+    "vacancy_title": "Junior Python разработчик",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53317777",
+    "vacancy_title": "Junior product manager B2B",
+    "edwica_profession": "Product Manager (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "66671119",
+    "vacancy_title": "Junior Python Backend Developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "55873250",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "53704960",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "66652313",
+    "vacancy_title": "Разработчик python (junior)",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49458495",
+    "vacancy_title": "Менеджер по продукту (junior)",
+    "edwica_profession": "Менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66216565",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "55873245",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "50835342",
+    "vacancy_title": "Junior Product manager (Outsourced)",
+    "edwica_profession": "Product Manager (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55892222",
+    "vacancy_title": "Младший менеджер продукта",
+    "edwica_profession": "Менеджер продукта",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "53284956",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "49710249",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55873248",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "50858773",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "51210511",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "67173564",
+    "vacancy_title": "Python Backend Developer Junior / Middle",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55873246",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (37).csv"
+  },
+  {
+    "vacancy_id": "53386715",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "66103428",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50772437",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67382300",
+    "vacancy_title": "Python-разработчик (junior)",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66629438",
+    "vacancy_title": "Python Developer (Backend)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "52812555",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "67541105",
+    "vacancy_title": "Junior Python разработчик",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66701384",
+    "vacancy_title": "Junior python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66981015",
+    "vacancy_title": "Junior Python Developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51697031",
+    "vacancy_title": "Junior Python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66958579",
+    "vacancy_title": "Junior Программист/Разработчик Python",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66958579",
+    "vacancy_title": "Junior Программист/Разработчик Python",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50476287",
+    "vacancy_title": "Младший менеджер продукта",
+    "edwica_profession": "Менеджер продукта",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "51697031",
+    "vacancy_title": "Junior Python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67348650",
+    "vacancy_title": "Python разработчик junior",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66815131",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67608364",
+    "vacancy_title": "Junior Python разработчик (Django)",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53288926",
+    "vacancy_title": "Помощник Product manager",
+    "edwica_profession": "Помощник Product manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "55875763",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67603276",
+    "vacancy_title": "Программист Python Junior (Стажер)",
+    "edwica_profession": "Junior python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54036059",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66751836",
+    "vacancy_title": "Junior Python developer (remote)",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54374433",
+    "vacancy_title": "Junior/Middle Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54961397",
+    "vacancy_title": "Python программист",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67347973",
+    "vacancy_title": "Junior Python разработчик",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66919274",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50649213",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66822211",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66701384",
+    "vacancy_title": "Junior python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (34).csv"
+  },
+  {
+    "vacancy_id": "55881248",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67173870",
+    "vacancy_title": "Junior python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50583603",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66981015",
+    "vacancy_title": "Junior Python Developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (34).csv"
+  },
+  {
+    "vacancy_id": "66909942",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67173870",
+    "vacancy_title": "Junior python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (34).csv"
+  },
+  {
+    "vacancy_id": "67028252",
+    "vacancy_title": "Junior Python разработчик",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55861794",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50561772",
+    "vacancy_title": "Junior Product Manager (Pharma)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66958579",
+    "vacancy_title": "Junior Программист/Разработчик Python",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (34).csv"
+  },
+  {
+    "vacancy_id": "66652313",
+    "vacancy_title": "Разработчик python (junior)",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49299326",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50675420",
+    "vacancy_title": "Junior Product Manager (Immunology)",
+    "edwica_profession": "Product Manager (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66111005",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50524599",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "47348712",
+    "vacancy_title": "Junior Backend Developer (Python)",
+    "edwica_profession": "Junior Backend Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (34).csv"
+  },
+  {
+    "vacancy_id": "50400716",
+    "vacancy_title": "Junior Product Manager (Allergy)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66763227",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67168715",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66111185",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67382300",
+    "vacancy_title": "Python-разработчик (junior)",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66111148",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "47668037",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55581349",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50451984",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66958579",
+    "vacancy_title": "Junior Программист/Разработчик Python",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55300849",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50352408",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66815131",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50811937",
+    "vacancy_title": "Junior Product Manager (стажер)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67348650",
+    "vacancy_title": "Python разработчик junior",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50479615",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66897021",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50949447",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55859641",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "51697031",
+    "vacancy_title": "Junior Python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53680941",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "55856204",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66754647",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53288926",
+    "vacancy_title": "Помощник Product manager",
+    "edwica_profession": "Помощник Product manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "66179853",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67603276",
+    "vacancy_title": "Программист Python Junior (Стажер)",
+    "edwica_profession": "Junior python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53945567",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "67546265",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48047390",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "53818823",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "50861816",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66110536",
+    "vacancy_title": "Middle+ Python-разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67168715",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50409644",
+    "vacancy_title": "Младший продакт-менеджер (БАД)",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55858817",
+    "vacancy_title": "Senior Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67382300",
+    "vacancy_title": "Python-разработчик (junior)",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66171323",
+    "vacancy_title": "Python разработчик (Django)",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "51697031",
+    "vacancy_title": "Junior Python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66958579",
+    "vacancy_title": "Junior Программист/Разработчик Python",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "47668037",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66815131",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66103398",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "51020587",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "67546265",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66919282",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67348650",
+    "vacancy_title": "Python разработчик junior",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54368979",
+    "vacancy_title": "Middle/Senior Python разработчик (удаленно)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66101965",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66754647",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55568157",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67603276",
+    "vacancy_title": "Программист Python Junior (Стажер)",
+    "edwica_profession": "Junior python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66661357",
+    "vacancy_title": "Python Developer (Senior/Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "55390481",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "52953238",
+    "vacancy_title": "Помощник продакт-менеджера",
+    "edwica_profession": "Помощник Продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "67168715",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67382300",
+    "vacancy_title": "Python-разработчик (junior)",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66815131",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50596002",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66958579",
+    "vacancy_title": "Junior Программист/Разработчик Python",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "47668037",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66090178",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67348650",
+    "vacancy_title": "Python разработчик junior",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50949447",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66634746",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66754647",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66071601",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "51697031",
+    "vacancy_title": "Junior Python developer",
+    "edwica_profession": "Junior Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66867110",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50476287",
+    "vacancy_title": "Младший менеджер продукта",
+    "edwica_profession": "Менеджер продукта",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67603276",
+    "vacancy_title": "Программист Python Junior (Стажер)",
+    "edwica_profession": "Junior python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66574907",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50746473",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67546265",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53680941",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "66959353",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "49299326",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53288926",
+    "vacancy_title": "Помощник Product manager",
+    "edwica_profession": "Помощник Product manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "66856604",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67473101",
+    "vacancy_title": "Python Middle Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50746481",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "52888150",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "66534030",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67467444",
+    "vacancy_title": "Middle Python Программист",
+    "edwica_profession": "middle python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53945567",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "48586304",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67587245",
+    "vacancy_title": "Разработчик python (Middle/Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66639755",
+    "vacancy_title": "Backend developer (Python)",
+    "edwica_profession": "Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50524599",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66919282",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55570434",
+    "vacancy_title": "Программист Python (Django)",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "53818823",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "50596002",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "54368979",
+    "vacancy_title": "Middle/Senior Python разработчик (удаленно)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66736639",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66854665",
+    "vacancy_title": "Python разработчик (middle+)",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "52277467",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "50602164",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66957937",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "48586304",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53272104",
+    "vacancy_title": "Менеджер продукта (junior)",
+    "edwica_profession": "Менеджер продукта",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "66593118",
+    "vacancy_title": "Middle backend разработчик Python",
+    "edwica_profession": "Middle Backend-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "51918157",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "67430865",
+    "vacancy_title": "Middle Backend Developer (Python)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50949447",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "53158702",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior Product Manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (26).csv"
+  },
+  {
+    "vacancy_id": "67144620",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49710249",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67025070",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66588394",
+    "vacancy_title": "Python Developer (Pre-middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66714717",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66861075",
+    "vacancy_title": "Middle/Middle+ Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66571713",
+    "vacancy_title": "Python backend developer",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "51029869",
+    "vacancy_title": "Помощник продакт-менеджера",
+    "edwica_profession": "Помощник Продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67173564",
+    "vacancy_title": "Python Backend Developer Junior / Middle",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50884720",
+    "vacancy_title": "Junior iOS Developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (20).csv"
+  },
+  {
+    "vacancy_id": "66956166",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66957941",
+    "vacancy_title": "Python-разработчик (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48383413",
+    "vacancy_title": "Junior iOS developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (20).csv"
+  },
+  {
+    "vacancy_id": "67622119",
+    "vacancy_title": "Middle  Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66150342",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50950628",
+    "vacancy_title": "IOS разработчик (junior)",
+    "edwica_profession": "IOS разработчик junior",
+    "csvfile": "Data/Vacancies\\vacancies-2 (20).csv"
+  },
+  {
+    "vacancy_id": "67620038",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49397922",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50113087",
+    "vacancy_title": "IOS разработчик (Junior/Middle)",
+    "edwica_profession": "Junior IOS разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-2 (20).csv"
+  },
+  {
+    "vacancy_id": "67122497",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49397923",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67309386",
+    "vacancy_title": "Python developer (middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50837159",
+    "vacancy_title": "Продакт менеджер-ассистент",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "49397924",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "55551158",
+    "vacancy_title": "Backend Developer на Python (Middle/Senior)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51020587",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66954595",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "54880229",
+    "vacancy_title": "Python developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50861816",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67605112",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54879535",
+    "vacancy_title": "Junior iOS developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "55078728",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54672398",
+    "vacancy_title": "Junior iOS Developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "55078729",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53541324",
+    "vacancy_title": "Junior iOS Developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "50772437",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66908178",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50967638",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53852360",
+    "vacancy_title": "Junior iOS Developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "50746473",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55907338",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67343567",
+    "vacancy_title": "Backend - разработчик (Python, Middle)",
+    "edwica_profession": "Middle Backend-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54929012",
+    "vacancy_title": "Junior iOS разработчик (удаленно)",
+    "edwica_profession": "Junior IOS разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "50476287",
+    "vacancy_title": "Младший менеджер продукта",
+    "edwica_profession": "Менеджер продукта",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66742689",
+    "vacancy_title": "Middle Python backend developer",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "54048744",
+    "vacancy_title": "Python Developer (middle/senior)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "30630016",
+    "vacancy_title": "Junior iOS developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "55905656",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67368235",
+    "vacancy_title": "Программист Python (Middle/Senior)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54816389",
+    "vacancy_title": "Junior iOS разработчик",
+    "edwica_profession": "Junior IOS разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "66588394",
+    "vacancy_title": "Python Developer (Pre-middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67618011",
+    "vacancy_title": "Python Developer (Senior/Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54783644",
+    "vacancy_title": "Junior iOS разработчик",
+    "edwica_profession": "Junior IOS разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "55904788",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50746481",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66203612",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "54539028",
+    "vacancy_title": "Junior IOS разработчик",
+    "edwica_profession": "Junior IOS разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "66192796",
+    "vacancy_title": "Middle C++ and Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66938727",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66952533",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66989795",
+    "vacancy_title": "Python Backend Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67335196",
+    "vacancy_title": "Python Middle/Senior Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66937131",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "54425214",
+    "vacancy_title": "Junior iOS Developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (31).csv"
+  },
+  {
+    "vacancy_id": "67588982",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66710509",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "49825602",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50664431",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "53864420",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67568285",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66219829",
+    "vacancy_title": "Python-разработчик, middle/senior",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67494460",
+    "vacancy_title": "Middle Backend Developer (Python Django)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66219830",
+    "vacancy_title": "Python-разработчик (middle/senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67569638",
+    "vacancy_title": "Python Developer (middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66546024",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66196802",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "50524599",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67583532",
+    "vacancy_title": "Middle ML Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55880675",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "67339028",
+    "vacancy_title": "Программист Python, Middle",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66941667",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (23).csv"
+  },
+  {
+    "vacancy_id": "66758863",
+    "vacancy_title": "Middle python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52425206",
+    "vacancy_title": "Junior IOS-разработчик",
+    "edwica_profession": "Junior IOS разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-2 (8).csv"
+  },
+  {
+    "vacancy_id": "50409644",
+    "vacancy_title": "Младший продакт-менеджер (БАД)",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67541022",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50884720",
+    "vacancy_title": "Junior iOS Developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (8).csv"
+  },
+  {
+    "vacancy_id": "50451984",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "37942316",
+    "vacancy_title": "Middle Python программист",
+    "edwica_profession": "middle python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52400491",
+    "vacancy_title": "Junior iOS developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (8).csv"
+  },
+  {
+    "vacancy_id": "48536510",
+    "vacancy_title": "Ассистент продакт-менеджера (Ассистент)",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "44936197",
+    "vacancy_title": "Разработчик Python (Middle/Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52142658",
+    "vacancy_title": "Junior iOS Developer",
+    "edwica_profession": "Junior iOS developer",
+    "csvfile": "Data/Vacancies\\vacancies-2 (8).csv"
+  },
+  {
+    "vacancy_id": "67535650",
+    "vacancy_title": "Middle-backend Python разработчик",
+    "edwica_profession": "Middle Backend-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51187069",
+    "vacancy_title": "Младший iOS-разработчик",
+    "edwica_profession": "младший  iOS-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-2 (8).csv"
+  },
+  {
+    "vacancy_id": "66729496",
+    "vacancy_title": "Разработчик Middle python",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53329898",
+    "vacancy_title": "Junior iOS-разработчик",
+    "edwica_profession": "Junior IOS разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-2 (8).csv"
+  },
+  {
+    "vacancy_id": "66729495",
+    "vacancy_title": "Разработчик Middle python",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67534700",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67504684",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48047390",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67504685",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67530862",
+    "vacancy_title": "Python Developer (Strong Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49824738",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67083513",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49126359",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "54955784",
+    "vacancy_title": "Разработчик Python (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66081084",
+    "vacancy_title": "Python разработчик (Middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53275903",
+    "vacancy_title": "Python developer (middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55517531",
+    "vacancy_title": "Python Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67444105",
+    "vacancy_title": "Программист Python middle",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67464481",
+    "vacancy_title": "Middle / Senior Python разработчик",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67429596",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "68720624",
+    "vacancy_title": "Графический дизайнер / стажер",
+    "edwica_profession": "Графический дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (18).csv"
+  },
+  {
+    "vacancy_id": "54374423",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50596002",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "54374433",
+    "vacancy_title": "Junior/Middle Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67450422",
+    "vacancy_title": "Python Middle/Senior Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54297088",
+    "vacancy_title": "Senior / Middle Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50628580",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67437767",
+    "vacancy_title": "Middle Backend Developer (Python)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50320797",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67115536",
+    "vacancy_title": "Middle/Senior Python разработчик (Django)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50530852",
+    "vacancy_title": "Junior Product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67415870",
+    "vacancy_title": "Python-разработчик (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67415871",
+    "vacancy_title": "Python-разработчик (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67415872",
+    "vacancy_title": "Python-разработчик (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50602164",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "51034770",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50949447",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66509445",
+    "vacancy_title": "Python developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50928002",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66509432",
+    "vacancy_title": "Python developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49710249",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67374038",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49458495",
+    "vacancy_title": "Менеджер по продукту (junior)",
+    "edwica_profession": "Менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67384477",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66230417",
+    "vacancy_title": "Программист Python / Middle",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48355472",
+    "vacancy_title": "Junior Product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55143087",
+    "vacancy_title": "Middle / Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50858773",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67132540",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67132539",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67132538",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66922561",
+    "vacancy_title": "Программист Python (Middle)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66177300",
+    "vacancy_title": "Middle Python программист",
+    "edwica_profession": "middle python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55422563",
+    "vacancy_title": "Разработчик Python (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55422575",
+    "vacancy_title": "Разработчик Python (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67301294",
+    "vacancy_title": "Программист Python (Middle)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66494804",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66494816",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50861816",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66494817",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50837159",
+    "vacancy_title": "Продакт менеджер-ассистент",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66494818",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66494819",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66494820",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66494821",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50476287",
+    "vacancy_title": "Младший менеджер продукта",
+    "edwica_profession": "Менеджер продукта",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67252175",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50772437",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67239886",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66820664",
+    "vacancy_title": "MIDDLE Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49043787",
+    "vacancy_title": "Python-разработчик Middle",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50746473",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67348126",
+    "vacancy_title": "Middle Python developer (Remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50649213",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67249632",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67305324",
+    "vacancy_title": "Разработчик Python Middle/Senior",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67300221",
+    "vacancy_title": "Middle / Senior Python разработчик",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67272257",
+    "vacancy_title": "Python разработчик (Middle / Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50664431",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67303957",
+    "vacancy_title": "Middle/Senior python developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50583603",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67268909",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50524599",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50878194",
+    "vacancy_title": "Middle/Senior Python разработчик",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50561772",
+    "vacancy_title": "Junior Product Manager (Pharma)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67259773",
+    "vacancy_title": "Python Developer (Middle, Middle+)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54974101",
+    "vacancy_title": "Python developer (Middle / Senior)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50451984",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67282454",
+    "vacancy_title": "Middle Backend-разработчик Python (Flask)",
+    "edwica_profession": "Backend разработчик (Middle)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52328840",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50675420",
+    "vacancy_title": "Junior Product Manager (Immunology)",
+    "edwica_profession": "Product Manager (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50400716",
+    "vacancy_title": "Junior Product Manager (Allergy)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67092476",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50352408",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50811937",
+    "vacancy_title": "Junior Product Manager (стажер)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67049578",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50479615",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "54557297",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48047390",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67173909",
+    "vacancy_title": "Backend-Developer Python (middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67164175",
+    "vacancy_title": "Программист Python (Junior+, Middle)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50666043",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "51020587",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67031777",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51029869",
+    "vacancy_title": "Помощник продакт-менеджера",
+    "edwica_profession": "Помощник Продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55835514",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50835342",
+    "vacancy_title": "Junior Product manager (Outsourced)",
+    "edwica_profession": "Product Manager (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67072641",
+    "vacancy_title": "Разработчик Python (Middle/Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55088580",
+    "vacancy_title": "Разработчик Python (Middle, Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50746481",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "49825602",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "49824738",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "49126359",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50409644",
+    "vacancy_title": "Младший продакт-менеджер (БАД)",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "48536510",
+    "vacancy_title": "Ассистент продакт-менеджера (Ассистент)",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55106678",
+    "vacancy_title": "Middle Backend Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50320797",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66936933",
+    "vacancy_title": "Python разработчик (Middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50596002",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67032965",
+    "vacancy_title": "Middle/Middle+ Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "53154394",
+    "vacancy_title": "Python Web Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66955232",
+    "vacancy_title": "Python Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50602164",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66952545",
+    "vacancy_title": "Программист Python (middle)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50628580",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66979175",
+    "vacancy_title": "Middle / Senior Python developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49710249",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66873552",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50530852",
+    "vacancy_title": "Junior Product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66909119",
+    "vacancy_title": "Python Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66880395",
+    "vacancy_title": "Middle python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67060640",
+    "vacancy_title": "Middle Python Backend разработчик",
+    "edwica_profession": "Middle Backend-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54812750",
+    "vacancy_title": "Python Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66892431",
+    "vacancy_title": "Python Developer (Strong Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51029869",
+    "vacancy_title": "Помощник продакт-менеджера",
+    "edwica_profession": "Помощник Продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66825265",
+    "vacancy_title": "Python developer (middle/senior)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49458495",
+    "vacancy_title": "Менеджер по продукту (junior)",
+    "edwica_profession": "Менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55411988",
+    "vacancy_title": "Middle Backend Developer (Python)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50928002",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66889937",
+    "vacancy_title": "Разработчик Python (Middle/Senior Backend)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51970310",
+    "vacancy_title": "Python-разработчик / Middle/Senior/TechLead",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48355472",
+    "vacancy_title": "Junior Product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "46694196",
+    "vacancy_title": "Программист Python Middle/Senior (МР)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "47161355",
+    "vacancy_title": "Программист Python Middle/Senior (ЛК)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50861816",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50949447",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "46694197",
+    "vacancy_title": "Программист Python Middle/Senior (МР)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50858773",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "51020587",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "53378305",
+    "vacancy_title": "Программист Python Middle/Senior (ЛК)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48047390",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "47161356",
+    "vacancy_title": "Программист Python Middle/Senior (ЛК)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50837159",
+    "vacancy_title": "Продакт менеджер-ассистент",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "49299326",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50772437",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67473101",
+    "vacancy_title": "Python Middle Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50476287",
+    "vacancy_title": "Младший менеджер продукта",
+    "edwica_profession": "Менеджер продукта",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66919282",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67467444",
+    "vacancy_title": "Middle Python Программист",
+    "edwica_profession": "middle python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66534030",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67587245",
+    "vacancy_title": "Разработчик python (Middle/Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50746473",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "48586304",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54368979",
+    "vacancy_title": "Middle/Senior Python разработчик (удаленно)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49824738",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "49825602",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67430865",
+    "vacancy_title": "Middle Backend Developer (Python)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50664431",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66588394",
+    "vacancy_title": "Python Developer (Pre-middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50649213",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66861075",
+    "vacancy_title": "Middle/Middle+ Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50583603",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67173564",
+    "vacancy_title": "Python Backend Developer Junior / Middle",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50524599",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67622119",
+    "vacancy_title": "Middle  Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50561772",
+    "vacancy_title": "Junior Product Manager (Pharma)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67620038",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50451984",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67309386",
+    "vacancy_title": "Python developer (middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50675420",
+    "vacancy_title": "Junior Product Manager (Immunology)",
+    "edwica_profession": "Product Manager (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55551158",
+    "vacancy_title": "Backend Developer на Python (Middle/Senior)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50409644",
+    "vacancy_title": "Младший продакт-менеджер (БАД)",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "54880229",
+    "vacancy_title": "Python developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67605112",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55078728",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49126359",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55078729",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50400716",
+    "vacancy_title": "Junior Product Manager (Allergy)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67144620",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67025070",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50967638",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54048744",
+    "vacancy_title": "Python Developer (middle/senior)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48536510",
+    "vacancy_title": "Ассистент продакт-менеджера (Ассистент)",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67618011",
+    "vacancy_title": "Python Developer (Senior/Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50352408",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66192796",
+    "vacancy_title": "Middle C++ and Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50811937",
+    "vacancy_title": "Junior Product Manager (стажер)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66989795",
+    "vacancy_title": "Python Backend Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50479615",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67335196",
+    "vacancy_title": "Python Middle/Senior Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51034770",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50666043",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50835342",
+    "vacancy_title": "Junior Product manager (Outsourced)",
+    "edwica_profession": "Product Manager (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66957941",
+    "vacancy_title": "Python-разработчик (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67494460",
+    "vacancy_title": "Middle Backend Developer (Python Django)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50746481",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67569638",
+    "vacancy_title": "Python Developer (middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67122497",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67583532",
+    "vacancy_title": "Middle ML Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50596002",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67368235",
+    "vacancy_title": "Программист Python (Middle/Senior)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67343567",
+    "vacancy_title": "Backend - разработчик (Python, Middle)",
+    "edwica_profession": "Middle Backend-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50320797",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67541022",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50530852",
+    "vacancy_title": "Junior Product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50628580",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67588982",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50602164",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67568285",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67534700",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67504684",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67504685",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50949447",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67530862",
+    "vacancy_title": "Python Developer (Strong Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49710249",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67083513",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67339028",
+    "vacancy_title": "Программист Python, Middle",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50928002",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "53275903",
+    "vacancy_title": "Python developer (middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49458495",
+    "vacancy_title": "Менеджер по продукту (junior)",
+    "edwica_profession": "Менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "48355472",
+    "vacancy_title": "Junior Product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55517531",
+    "vacancy_title": "Python Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "37942316",
+    "vacancy_title": "Middle Python программист",
+    "edwica_profession": "middle python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66758863",
+    "vacancy_title": "Middle python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50858773",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67429596",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "44936197",
+    "vacancy_title": "Разработчик Python (Middle/Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54374423",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54374433",
+    "vacancy_title": "Junior/Middle Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67450422",
+    "vacancy_title": "Python Middle/Senior Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50861816",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "54297088",
+    "vacancy_title": "Senior / Middle Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50837159",
+    "vacancy_title": "Продакт менеджер-ассистент",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67535650",
+    "vacancy_title": "Middle-backend Python разработчик",
+    "edwica_profession": "Middle Backend-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48047390",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66729496",
+    "vacancy_title": "Разработчик Middle python",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66729495",
+    "vacancy_title": "Разработчик Middle python",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67437767",
+    "vacancy_title": "Middle Backend Developer (Python)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50772437",
+    "vacancy_title": "Младший Продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67444105",
+    "vacancy_title": "Программист Python middle",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50476287",
+    "vacancy_title": "Младший менеджер продукта",
+    "edwica_profession": "Менеджер продукта",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "54955784",
+    "vacancy_title": "Разработчик Python (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66081084",
+    "vacancy_title": "Python разработчик (Middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66509445",
+    "vacancy_title": "Python developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "68124802",
+    "vacancy_title": "Графический/Веб-дизайнер",
+    "edwica_profession": "Графический дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (18).csv"
+  },
+  {
+    "vacancy_id": "66509432",
+    "vacancy_title": "Python developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67384477",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50746473",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55143087",
+    "vacancy_title": "Middle / Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50746481",
+    "vacancy_title": "Ассистент менеджера по продукту",
+    "edwica_profession": "Ассистент менеджера по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67464481",
+    "vacancy_title": "Middle / Senior Python разработчик",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50649213",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67132540",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50664431",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67132539",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67132538",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66494804",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49825602",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67551884",
+    "vacancy_title": "Графический веб-дизайнер",
+    "edwica_profession": "Графический дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (18).csv"
+  },
+  {
+    "vacancy_id": "66494816",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66494817",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50583603",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66494818",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50524599",
+    "vacancy_title": "Младший менеджер по продукту",
+    "edwica_profession": "Младший менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66494819",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66494820",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66494821",
+    "vacancy_title": "Middle Python Developer (remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50561772",
+    "vacancy_title": "Junior Product Manager (Pharma)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67115536",
+    "vacancy_title": "Middle/Senior Python разработчик (Django)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67348126",
+    "vacancy_title": "Middle Python developer (Remote)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50451984",
+    "vacancy_title": "Младший продакт-менеджер",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67415870",
+    "vacancy_title": "Python-разработчик (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50675420",
+    "vacancy_title": "Junior Product Manager (Immunology)",
+    "edwica_profession": "Product Manager (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67415871",
+    "vacancy_title": "Python-разработчик (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50409644",
+    "vacancy_title": "Младший продакт-менеджер (БАД)",
+    "edwica_profession": "Младший продакт-менеджер",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67415872",
+    "vacancy_title": "Python-разработчик (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50400716",
+    "vacancy_title": "Junior Product Manager (Allergy)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67249632",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48536510",
+    "vacancy_title": "Ассистент продакт-менеджера (Ассистент)",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50352408",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67303957",
+    "vacancy_title": "Middle/Senior python developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50811937",
+    "vacancy_title": "Junior Product Manager (стажер)",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50479615",
+    "vacancy_title": "Junior product manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66230417",
+    "vacancy_title": "Программист Python / Middle",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67268909",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51034770",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67374038",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51020587",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67259773",
+    "vacancy_title": "Python Developer (Middle, Middle+)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54974101",
+    "vacancy_title": "Python developer (Middle / Senior)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51029869",
+    "vacancy_title": "Помощник продакт-менеджера",
+    "edwica_profession": "Помощник Продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66922561",
+    "vacancy_title": "Программист Python (Middle)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52328840",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66177300",
+    "vacancy_title": "Middle Python программист",
+    "edwica_profession": "middle python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50666043",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55422563",
+    "vacancy_title": "Разработчик Python (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50835342",
+    "vacancy_title": "Junior Product manager (Outsourced)",
+    "edwica_profession": "Product Manager (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67301294",
+    "vacancy_title": "Программист Python (Middle)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55422575",
+    "vacancy_title": "Разработчик Python (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66197738",
+    "vacancy_title": "Стажер - Графический дизайнер",
+    "edwica_profession": "Графический дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (6).csv"
+  },
+  {
+    "vacancy_id": "67092476",
+    "vacancy_title": "Middle Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49824738",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67173909",
+    "vacancy_title": "Backend-Developer Python (middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67252175",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67239886",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49126359",
+    "vacancy_title": "Ассистент продакт-менеджера",
+    "edwica_profession": "Ассистент продакт-менеджера",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "66820664",
+    "vacancy_title": "MIDDLE Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49043787",
+    "vacancy_title": "Python-разработчик Middle",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49480631",
+    "vacancy_title": "Junior Product/Project Manager",
+    "edwica_profession": "Project Manager - junior",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50628580",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "67031777",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51034770",
+    "vacancy_title": "Junior Product Manager",
+    "edwica_profession": "Junior product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "55835514",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67305324",
+    "vacancy_title": "Разработчик Python Middle/Senior",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67300221",
+    "vacancy_title": "Middle / Senior Python разработчик",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67272257",
+    "vacancy_title": "Python разработчик (Middle / Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51057070",
+    "vacancy_title": "Product Manager",
+    "edwica_profession": "Product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "49437880",
+    "vacancy_title": "Product Manager",
+    "edwica_profession": "Product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50659115",
+    "vacancy_title": "Mobile Product Manager",
+    "edwica_profession": "Product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50659117",
+    "vacancy_title": "Mobile Product Manager",
+    "edwica_profession": "Product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "50878194",
+    "vacancy_title": "Middle/Senior Python разработчик",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55106678",
+    "vacancy_title": "Middle Backend Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51046541",
+    "vacancy_title": "Менеджер по продукту",
+    "edwica_profession": "Менеджер по продукту",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "68193420",
+    "vacancy_title": "Графический дизайнер/Веб-дизайнер",
+    "edwica_profession": "Старший графический веб-дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (18).csv"
+  },
+  {
+    "vacancy_id": "67032965",
+    "vacancy_title": "Middle/Middle+ Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51050014",
+    "vacancy_title": "Product manager",
+    "edwica_profession": "Product-manager",
+    "csvfile": "Data/Vacancies\\vacancies-0 (15).csv"
+  },
+  {
+    "vacancy_id": "53154394",
+    "vacancy_title": "Python Web Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67282454",
+    "vacancy_title": "Middle Backend-разработчик Python (Flask)",
+    "edwica_profession": "Backend разработчик (Middle)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66955232",
+    "vacancy_title": "Python Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66979175",
+    "vacancy_title": "Middle / Senior Python developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66909119",
+    "vacancy_title": "Python Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66880395",
+    "vacancy_title": "Middle python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67164175",
+    "vacancy_title": "Программист Python (Junior+, Middle)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67049578",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51701845",
+    "vacancy_title": "Junior SEO специалист",
+    "edwica_profession": "Junior SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "54557297",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54812750",
+    "vacancy_title": "Python Developer (Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66892431",
+    "vacancy_title": "Python Developer (Strong Middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67072641",
+    "vacancy_title": "Разработчик Python (Middle/Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51984993",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "55088580",
+    "vacancy_title": "Разработчик Python (Middle, Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "46008227",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66825265",
+    "vacancy_title": "Python developer (middle/senior)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52104895",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "55411988",
+    "vacancy_title": "Middle Backend Developer (Python)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51181615",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "50069582",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51328626",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51250386",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66952545",
+    "vacancy_title": "Программист Python (middle)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51984993",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66936933",
+    "vacancy_title": "Python разработчик (Middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "46008227",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66873552",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52104895",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51181615",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "50069582",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67060640",
+    "vacancy_title": "Middle Python Backend разработчик",
+    "edwica_profession": "Middle Backend-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51328626",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51250386",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "46694196",
+    "vacancy_title": "Программист Python Middle/Senior (МР)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "47161355",
+    "vacancy_title": "Программист Python Middle/Senior (ЛК)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66889937",
+    "vacancy_title": "Разработчик Python (Middle/Senior Backend)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51970310",
+    "vacancy_title": "Python-разработчик / Middle/Senior/TechLead",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51984993",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "46008227",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "46694197",
+    "vacancy_title": "Программист Python Middle/Senior (МР)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52104895",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "53378305",
+    "vacancy_title": "Программист Python Middle/Senior (ЛК)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "47161356",
+    "vacancy_title": "Программист Python Middle/Senior (ЛК)",
+    "edwica_profession": "Программист Python Middle",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51181615",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "50069582",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51328626",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51250386",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67473765",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66919274",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55861794",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66909942",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67096000",
+    "vacancy_title": "Python разработчик (Django)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "68388655",
+    "vacancy_title": "Графический / веб-дизайнер",
+    "edwica_profession": "Графический дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (18).csv"
+  },
+  {
+    "vacancy_id": "67472412",
+    "vacancy_title": "Backend Разработчик (Python)",
+    "edwica_profession": "Backend разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "55581349",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51701845",
+    "vacancy_title": "Junior SEO специалист",
+    "edwica_profession": "Junior SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67473101",
+    "vacancy_title": "Python Middle Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54603953",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "54956212",
+    "vacancy_title": "Python developer (Senior)",
+    "edwica_profession": "Senior Python RPA Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66534030",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67467791",
+    "vacancy_title": "Middle+ Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67467444",
+    "vacancy_title": "Middle Python Программист",
+    "edwica_profession": "middle python программист",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67587245",
+    "vacancy_title": "Разработчик python (Middle/Senior)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51701845",
+    "vacancy_title": "Junior SEO специалист",
+    "edwica_profession": "Junior SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66897021",
+    "vacancy_title": "Ведущий Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66919282",
+    "vacancy_title": "Middle/Senior Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67062268",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67062269",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67062270",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "48725584",
+    "vacancy_title": "Backend developer (Python)",
+    "edwica_profession": "Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51984993",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66757137",
+    "vacancy_title": "Senior Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "46008227",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "54368979",
+    "vacancy_title": "Middle/Senior Python разработчик (удаленно)",
+    "edwica_profession": "Разработчик C++ Middle/Senior",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "52104895",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "68479026",
+    "vacancy_title": "Веб/графический дизайнер",
+    "edwica_profession": "Графический дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (18).csv"
+  },
+  {
+    "vacancy_id": "51181615",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "55390481",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50069582",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66503197",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66503196",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51701845",
+    "vacancy_title": "Junior SEO специалист",
+    "edwica_profession": "Junior SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51328626",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51250386",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "55123435",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66196802",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67039471",
+    "vacancy_title": "Python - разработчик",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67379106",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66867110",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66097514",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "46008227",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67227329",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51984993",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67143446",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52104895",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67907727",
+    "vacancy_title": "Графический дизайнер/веб-дизайнер",
+    "edwica_profession": "Старший графический веб-дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (18).csv"
+  },
+  {
+    "vacancy_id": "67143272",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51181615",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "50069582",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66856604",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51328626",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51701845",
+    "vacancy_title": "Junior SEO специалист",
+    "edwica_profession": "Junior SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "48586304",
+    "vacancy_title": "Middle Python developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67550546",
+    "vacancy_title": "Ведущий python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51250386",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66873224",
+    "vacancy_title": "Разработчик Python (senior)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "68333063",
+    "vacancy_title": "Веб-дизайнер / Графический дизайнер",
+    "edwica_profession": "Старший графический веб-дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (18).csv"
+  },
+  {
+    "vacancy_id": "67541105",
+    "vacancy_title": "Junior Python разработчик",
+    "edwica_profession": "Разработчик Python (Junior)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51984993",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67623158",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "46008227",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67430865",
+    "vacancy_title": "Middle Backend Developer (Python)",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66854665",
+    "vacancy_title": "Python разработчик (middle+)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52104895",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66957942",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51181615",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66957937",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50069582",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67138293",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66852726",
+    "vacancy_title": "Инженер - разработчик Python",
+    "edwica_profession": "Инженер-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67144620",
+    "vacancy_title": "Middle Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51701845",
+    "vacancy_title": "Junior SEO специалист",
+    "edwica_profession": "Junior SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67025070",
+    "vacancy_title": "Middle Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51328626",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51250386",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67352398",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67239999",
+    "vacancy_title": "Программист Python, Java",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50458045",
+    "vacancy_title": "SEO-специалист",
+    "edwica_profession": "SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67620135",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67002814",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66200298",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51984993",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "53864420",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "46008227",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "55467090",
+    "vacancy_title": "Веб/графический дизайнер",
+    "edwica_profession": "Старший графический веб-дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (6).csv"
+  },
+  {
+    "vacancy_id": "52104895",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67013108",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67612745",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66588394",
+    "vacancy_title": "Python Developer (Pre-middle)",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50126239",
+    "vacancy_title": "SEO-специалист",
+    "edwica_profession": "SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67503196",
+    "vacancy_title": "Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51181615",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67611931",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50069582",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "51847609",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66520162",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51328626",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67411307",
+    "vacancy_title": "Developer Python",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55433360",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51208503",
+    "vacancy_title": "SEO-специалист",
+    "edwica_profession": "SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67355833",
+    "vacancy_title": "Программист Python, Django",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67618826",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50458045",
+    "vacancy_title": "SEO-специалист",
+    "edwica_profession": "SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66060492",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67163299",
+    "vacancy_title": "Разработчик Python",
+    "edwica_profession": "Разработчик Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67610241",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55880675",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49488972",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66861075",
+    "vacancy_title": "Middle/Middle+ Python Developer",
+    "edwica_profession": "Python Middle Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "46008227",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66520163",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51984993",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66520161",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "52104895",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66520160",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66520159",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66520158",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67585518",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50126239",
+    "vacancy_title": "SEO-специалист",
+    "edwica_profession": "SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67173564",
+    "vacancy_title": "Python Backend Developer Junior / Middle",
+    "edwica_profession": "Middle Backend Developer (Python)",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51181615",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "67493260",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67585091",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "50069582",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66957941",
+    "vacancy_title": "Python-разработчик (middle)",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66957939",
+    "vacancy_title": "Python-разработчик (backend)",
+    "edwica_profession": "Backend разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51328626",
+    "vacancy_title": "Помощник SEO-специалиста",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66957933",
+    "vacancy_title": "Python разработчик (backend)",
+    "edwica_profession": "Backend разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66808519",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "51208503",
+    "vacancy_title": "SEO-специалист",
+    "edwica_profession": "SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (16).csv"
+  },
+  {
+    "vacancy_id": "66688822",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66688824",
+    "vacancy_title": "Python developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66978340",
+    "vacancy_title": "Программист Python",
+    "edwica_profession": "Программист Python",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "66925513",
+    "vacancy_title": "Python Developer",
+    "edwica_profession": "Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67620466",
+    "vacancy_title": "Senior Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "67617877",
+    "vacancy_title": "Middle+ Python-разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "55875763",
+    "vacancy_title": "Python разработчик",
+    "edwica_profession": "Python-разработчик",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "67622119",
+    "vacancy_title": "Middle  Python Developer",
+    "edwica_profession": "Middle Python Developer",
+    "csvfile": "Data/Vacancies\\vacancies-1 (12).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "54193620",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "66180917",
+    "vacancy_title": "Веб-дизайнер / графический дизайнер",
+    "edwica_profession": "Старший графический веб-дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (6).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "68124802",
+    "vacancy_title": "Графический/Веб-дизайнер",
+    "edwica_profession": "Графический дизайнер",
+    "csvfile": "Data/Vacancies\\vacancies-3 (18).csv"
+  },
+  {
+    "vacancy_id": "54254785",
+    "vacancy_title": "Помощник SEO-специалиста (удаленно)",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "54193620",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "54254785",
+    "vacancy_title": "Помощник SEO-специалиста (удаленно)",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "54193620",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "54254785",
+    "vacancy_title": "Помощник SEO-специалиста (удаленно)",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "68866595",
+    "vacancy_title": "Стажер SEO-оптимизатор",
+    "edwica_profession": "SEO-оптимизатор ",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "54193620",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "68866595",
+    "vacancy_title": "Стажер SEO-оптимизатор",
+    "edwica_profession": "SEO-оптимизатор ",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "68417312",
+    "vacancy_title": "Младший SEO специалист / Специалист по интернет-рекламе",
+    "edwica_profession": "младший Специалист по интернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  },
+  {
+    "vacancy_id": "54254785",
+    "vacancy_title": "Помощник SEO-специалиста (удаленно)",
+    "edwica_profession": "Помощник SEO-специалиста",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "54193620",
+    "vacancy_title": "Помощник SEO оптимизатора",
+    "edwica_profession": "Помощник SEO-оптимизатора",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  },
+  {
+    "vacancy_id": "49257627",
+    "vacancy_title": "Младший SEO-специалист",
+    "edwica_profession": "Младший SEO-специалист",
+    "csvfile": "Data/Vacancies\\vacancies-4 (4).csv"
+  }
+]нтернет рекламе",
+    "csvfile": "Data/Vacancies\\vacancies-4 (27).csv"
+  }
+]
