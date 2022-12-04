@@ -24,8 +24,10 @@ def get_skills_from_CSV(csvPath: str):
         reader = csv.reader(csvfile, delimiter=";")
         for index, row in enumerate(reader):
             if index == 0: continue # Пропускаем название колонки
-            file_skills += row[SKILLS_COLUMN].split("|")
-
+            try:
+                file_skills += row[SKILLS_COLUMN].split("|")
+            except IndexError:
+                continue
     return file_skills
 
 def save_vacancies_skill_inMongo(skills: set[str], collectionName: str):
