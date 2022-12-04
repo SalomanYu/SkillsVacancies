@@ -12,5 +12,6 @@ func main(){
 	// joiner.JoinEdwicaProfessions()
 	joiner.CombineTheFoundPairsWithVacancies()
 	fmt.Println(time.Now().Unix()-start, " sec.")
-
+	var a string
+	fmt.Scan(&a)
 }
