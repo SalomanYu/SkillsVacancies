@@ -37,7 +37,7 @@ def save_vacancies_skill_inMongo(skills: set[str], collectionName: str):
     db = mongodb.connect_to_db("skills")
     collection = db[collectionName]
     for skill in track(range(len(skills)), description="[green] Saving skills in db..."):
-        if skill: collection.insert_one({"skill": skill}) 
+        if skills[skill]: collection.insert_one({"skill": skills[skill]}) 
     
 
 def clear_vacancies_skill_from_duplicates(skills: set[str] = None):
@@ -80,7 +80,7 @@ def simple_detection_duplicates(skills):
     # return remove_duplicates(skills, duplicates)
 
     # 2 Вариант
-    return set(i.strip().lower() for i in skills)
+    return [i.strip().lower() for i in skills]
 
 def remove_duplicates(skills: list[str], duplicates: list[str]):
     print("Количество повторений ", len(duplicates))
